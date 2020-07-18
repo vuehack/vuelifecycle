@@ -1,4 +1,4 @@
-# vuestarter
+# vuelifecycle
 
 ## Project setup
 ```
